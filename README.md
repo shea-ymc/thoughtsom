@@ -1,7 +1,9 @@
-[![Build Status](https://travis-ci.org/zpratt/thoughtsom.png?branch=master)](https://travis-ci.org/zpratt/thoughtsom)
-[![Code Climate](https://codeclimate.com/github/zpratt/thoughtsom.png)](https://codeclimate.com/github/zpratt/thoughtsom)
-[![Dependency Status](https://david-dm.org/zpratt/thoughtsom.svg?theme=shields.io)](https://david-dm.org/zpratt/thoughtsom)
+[![Build Status](https://travis-ci.org/shea-ymc/thoughtsom.png?branch=master)](https://travis-ci.org/shea-ymc/thoughtsom)
+
 ## Release History
+* Major changes
+  * 03/10/14
+    * Forked by Shea
 * Updates
   * 02/22/14
     * Added example UI test to ensure that karma, require, chai, and initial runtime deps are working together.

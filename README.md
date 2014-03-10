@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/shea-ymc/thoughtsom.png?branch=master)](https://travis-ci.org/shea-ymc/thoughtsom)
 
+Editing this in hopes of triggering a build
+
 ## Release History
 * Major changes
   * 03/10/14

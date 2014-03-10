@@ -4,13 +4,13 @@
   "version": "0.0.1",
   "homepage": "",
   "author": {
-    "name": "zach pratt",
-    "email": "zach@attackofzach.com",
-    "url": "http://attackofzach.com"
+    "name": "shea clare",
+    "email": "shea@ymcnetwork.com",
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zpratt/thoughtsom.git"
+    "url": "git://github.com/shea-ymc/thoughtsom.git"
   },
   "licenses": [
     {

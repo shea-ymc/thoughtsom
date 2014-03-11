@@ -1,0 +1,60 @@
+{
+  "name": "thoughtsom",
+  "version": "0.0.0",
+  "description": "[![Build Status](https://travis-ci.org/shea-ymc/thoughtsom.png?branch=master)](https://travis-ci.org/shea-ymc/thoughtsom)",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shea-ymc/thoughtsom.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/shea-ymc/thoughtsom/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.3",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "karma-chrome-launcher": "~0.1.2",
+    "karma-firefox-launcher": "~0.1.3",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1.5",
+    "karma-coffee-preprocessor": "~0.1.3",
+    "requirejs": "~2.1.11",
+    "karma-requirejs": "~0.2.1",
+    "karma-phantomjs-launcher": "~0.1.2",
+    "karma": "~0.10.9",
+    "karma-script-launcher": "~0.1.0",
+    "mocha": "~1.17.1",
+    "karma-mocha": "~0.1.1",
+    "chai": "~1.9.0",
+    "karma-chai": "~0.1.0",
+    "sinon": "~1.9.0",
+    "karma-sinon": "~1.0.2",
+    "grunt-karma": "~0.6.2",
+    "grunt-mocha-cov": "~0.2.1",
+    "supertest": "~0.9.0",
+    "config": "~0.4.35",
+    "yadda": "~0.10.0",
+    "karma-browserifast": "~0.2.1",
+    "nodemon": "~1.0.15",
+    "grunt-nodemon": "~0.2.1",
+    "casual": "~1.4.5",
+    "proxyquire": "~0.5.3",
+    "coveralls": "~2.8.0",
+    "grunt-docco": "~0.3.3",
+    "browserify": "~3.32.1"
+  },
+  "dependencies": {
+    "mongoose": "~3.8.8",
+    "lodash": "~2.4.1",
+    "express": "~3.5.0"
+  }
+}

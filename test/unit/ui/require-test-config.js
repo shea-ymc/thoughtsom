@@ -4,8 +4,8 @@
     'use strict';
     requirejs.config({
         paths: {
-            'underscore': '/base/bower_components/lodash/dist/lodash.underscore.min',
-            'backbone': '/base/bower_components/backbone/backbone'
+            'underscore': '/base/app/bower_components/lodash/dist/lodash.underscore.min',
+            'backbone': '/base/app/bower_components/backbone/backbone'
         },
         shim: {
             'underscore': {

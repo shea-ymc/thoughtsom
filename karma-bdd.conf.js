@@ -3,9 +3,9 @@ module.exports = function (config) {
         basePath: '.',
         frameworks: ['mocha', 'chai', 'sinon', 'browserify'],
         files: [
-            'bower_components/jquery/jquery.js',
-            {pattern: 'bower_components/lodash/dist/lodash.underscore.min.js', included: false},
-            {pattern: 'bower_components/backbone/backbone.js', included: false},
+            'app/bower_components/jquery/jquery.js',
+            {pattern: 'app/bower_components/lodash/dist/lodash.underscore.min.js', included: false},
+            {pattern: 'app/bower_components/backbone/backbone.js', included: false},
 
             {pattern: 'src/ui/backend/*.js', included: false},
 

@@ -9,7 +9,7 @@ services:
 env:
   global:
     - NODE_ENV=travisci
-    - BUILD_DIR=`pwd`/shea-ymc
+    - BUILD_DIR=`shea-ymc`/zpratt
 before_script:
   - npm install -g grunt-cli
   - npm install -g bower

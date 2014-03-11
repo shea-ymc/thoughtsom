@@ -14,7 +14,3 @@ before_script:
   - npm install -g grunt-cli
   - npm install -g bower
   - bower install
-  - ls $BUILD_DIR
-  - ls $BUILD_DIR/thoughtsom/
-  - ls $BUILD_DIR/thoughtsom/app/
-  - ls $BUILD_DIR/thoughtsom/app/bower_components
